@@ -17,7 +17,7 @@
       <origin rpy="0 0 1.5708" xyz="0.0 0 0.0"/>
       <geometry>
 <!--	<box size="0.38 0.036 0.33" />-->
-        <mesh size ="0.1 0.1 0.1" filename="package://bebop_description/meshes/bebop_chassis2.stl"/>
+        <mesh size ="0.1 0.1 0.1" filename="package://bebop_description/meshes/bebop.stl"/>
       </geometry>
     </visual>
   </link>
